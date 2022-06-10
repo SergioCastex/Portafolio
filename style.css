@@ -1,0 +1,27 @@
+header{
+    background-color: aqua;
+}
+
+main {
+    color: white;
+    text-align: left;
+}
+
+main p {
+    width: 475px;
+    height: 197px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.datos{
+    text-align: center;
+    background-color: green;
+}
+
+footer {
+    text-align: center;
+}
+
+
